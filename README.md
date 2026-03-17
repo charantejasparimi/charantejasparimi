@@ -40,7 +40,7 @@ I have worked on projects involving **React.js, Node.js, Express.js, Firebase, P
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charantejasparimi&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charantejasparimi&layout=compact&theme=merko" height="150" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charantejasparimi&layout=compact&theme=merko" height="150" alt="Top Languages" /> -->
   <img src="https://streak-stats.demolab.com?user=charantejasparimi&theme=dracula" height="150" alt="Streak Stats" />
 </div>
 
